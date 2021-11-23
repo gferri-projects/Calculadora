@@ -1,3 +1,3 @@
-[CALCULADORA](https://github.com/projetos-juliagranado/Calculadora.git)
+[CALCULADORA](https://projetos-juliagranado.github.io/Calculadora/)
 
 Calculadora feita com HTML, JavaScript e CSS
